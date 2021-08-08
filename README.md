@@ -9,8 +9,8 @@ create a method for dequeue that extracts the first value that was pushed in.
 <!-- Embedded whiteboard image -->
 ![white boarder image](Screenshot08-08-2021231733(2).jpg)
 
-## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+## white board Link
+(https://miro.com/app/board/o9J_l5exNKI=/)
 
-## Solution
-<!-- Show how to run your code, and examples of it in action -->
+## pull request link
+(https://github.com/FirasHasan/stacks-and-queues/pull/1)
